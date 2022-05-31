@@ -1,7 +1,7 @@
 let var1,result
 let var2 = 2000
 
-for (i = 0; i < 3; i++)  {
+for (i = 0; i < 2; i++)  {
   if(i == 0) {
     var1 = parseInt(prompt("Indique la cantidad de productos que quiere"));
     console.log("Ingresaste la cantidad de: " + var1 + " productos.");
